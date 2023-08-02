@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anjalisinghkanwar
 - 👀 I’m interested in all things data, with a solid expertise on Azure data technologies and computer networking. Also, a beginner in finances, hit me up for a discussion :)
 - 🌱 I’m currently learning Python and DBMS.
-- 💞️ I’m looking to collaborate on Python, DBMS and SQL. 
+- 💞️ I’m looking to collaborate on Python, DBMS, SQL and Azure tech suite. 
 - 📫 How to reach me - anjalisinghkshtriya@gmail.com 
 
 <!---
